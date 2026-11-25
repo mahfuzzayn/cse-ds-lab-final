@@ -9,6 +9,8 @@ This folder holds a short, plain-language explanation for each of the 25 problem
 - a **Input** and **Output** section captured from an actual run of the program — ready to be copied into the printable lab report,
 - an extra **Edge Case Test** showing how the program behaves on a tricky input (invalid position, empty stack, overflow, duplicates, negatives, and so on).
 
+There is also a **[Diagrams](../Diagrams) folder** — one `.excalidraw` file per problem, matching the names of the code files. Each diagram shows the input → output pair, a real-life analogy, a flowchart of the procedure, and a worked example with the data drawn step by step. Open them with the Obsidian Excalidraw plugin (they load automatically) or drag one onto [excalidraw.com](https://excalidraw.com).
+
 The programs are written the way a 2-1 student would write them: plain arrays, simple loops, no comments, standard `cin`/`cout` input-output style. No library shortcuts are used — every stack, queue, sort and search is built from scratch, since that is what the course asks for.
 
 ## Problem Index
