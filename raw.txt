@@ -1,0 +1,26 @@
+Problem List
+1. Insert an Element into an Array at a Specific Position
+2. Queue Enqueue Operation with Overflow Checking
+3. Search an Element in a Queue
+4. Calculate the Sum of Stack Elements
+5. Calculate the Average of Stack Elements
+6. Copy Elements from One Stack to Another Stack
+7. Perform Enqueue and Dequeue Operations in a Queue
+8. Move the First Element of a Queue to the Rear
+9. Reverse a Queue Using a Stack
+10. Separate Even and Odd Elements into Two Queues
+11. Represent an Undirected Graph Using an Adjacency Matrix
+12. Count the Total Number of Edges in a Graph Using an Adjacency Matrix
+13. Linear Search and Identify the Element Position
+14. Binary Search in Ascending Order
+15. Binary Search in Descending Order
+16. Count Elements Smaller Than a Given Value Using Binary Search
+17. Bubble Sort in Ascending Order
+18. Insertion Sort in Ascending Order
+19. Selection Sort in Ascending Order
+20. Display Array After Each Pass of Selection Sort
+21. Quick Sort in Ascending Order
+22. Merge Sort in Ascending Order
+23. Find Elements That Changed Positions After Bubble Sort
+24. Arrange Even Numbers First and Odd Numbers Later Using Insertion Sort
+25. Insert an Element into an Array at a Given Position
